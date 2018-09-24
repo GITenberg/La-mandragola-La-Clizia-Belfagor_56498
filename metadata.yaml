@@ -1,16 +1,21 @@
 _repo: La-mandragola-La-Clizia-Belfagor_56498
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Osimo, Vittorio
     gutenberg_agent_id: '48884'
     url: http://www.gutenberg.org/2009/agents/48884
+covers:
+- cover_type: archival
+  image_path: 56498-h/images/cover.jpg
 creator:
   author:
     agent_name: Machiavelli, Nicolo
     gutenberg_agent_id: '48883'
     url: http://www.gutenberg.org/2009/agents/48883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56498#La-mandragola-La-Clizia-Belfagor
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2018-02-04'
 gutenberg_type: Text
